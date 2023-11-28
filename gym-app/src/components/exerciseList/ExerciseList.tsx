@@ -1,6 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const ExerciseList = () => {
+  
   return (
     <div>ExerciseList</div>
   )

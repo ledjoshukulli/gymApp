@@ -107,3 +107,8 @@
     background-color: red;
     color: white;
   }
+  .error {
+    color: red; /* Red color for error messages */
+    font-size: 14px; /* Adjust font size */
+    margin-top: 4px; /* Add spacing between input and error message */
+  }
